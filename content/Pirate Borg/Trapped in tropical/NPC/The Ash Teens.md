@@ -1,11 +1,21 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-05-07T20:37:37.580+02:00
+modified: 2026-05-07T21:16:30.531+02:00
 tags:
   - pirates
   - teenagers
 ---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Short Name Layout
+source: "Food Monsters"
+name: "Pie in the Sky"
+
+For the rest, please indicate how it should be filled out. 
+```
 
 # The Ash Teens
 
