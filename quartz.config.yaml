@@ -244,6 +244,12 @@ plugins:
         - description
         - tags
         - aliases
+        - type
+        - role
+        - status
+        - location
+        - value
+        - legality
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
