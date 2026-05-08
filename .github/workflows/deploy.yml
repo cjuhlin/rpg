@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - v5
- 
+env:
+  THEME_NAME: aura 
 permissions:
   contents: read
   pages: write
@@ -40,6 +41,8 @@ jobs:
             ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
