@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08
-modified: 2026-05-08T18:36:54.139+02:00
+modified: 2026-05-08T18:50:53.956+02:00
 tags:
   - session-notes
   - treasure-map
@@ -13,7 +13,7 @@ tags:
 
 The [[Spanish Inquisition]] hired the crew, alongside [[Beltran de ordaz]] and [[Mother Iris]], to find the wreck of the _[[Silent Angel]]_. The crew received 100s upfront, and Beltran agreed to split the profits from any recovered treasure or salvage 50/50.
 
-They arrived at [[Eel Island]] and headed deep into the jungle, only to soon discover they had been betrayed by their bosun, [[Mr. Oxley]]. Chased by an unknown adversary, the crew fled back to the beach, only to find their ship missing and the _[[Wharf rat]]_ sailing away toward the horizon.
+They arrived at [[Eel Island]] and headed deep into the jungle, only to soon discover they had been betrayed by their bosun, [[Mr. Oxley]]. Chased by an unknown adversary, the crew fled back to the beach, only to find their dinghy missing and the _[[Wharf rat]]_ sailing away toward the horizon.
 
 ## ⚔️ Combat & Encounters
 
