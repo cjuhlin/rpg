@@ -271,8 +271,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: aura
+      #variation: ttrpg-dnd
 layout:
   groups:
     toolbar:
